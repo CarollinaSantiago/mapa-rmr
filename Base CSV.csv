@@ -1,4 +1,4 @@
-codigo,municipio,area_km2,populacao,densidade,risco_chuva
+id,municipio,area_km2,populacao,densidade,risco_chuva
 2611606,Recife,218843,1488920,6803,alto
 2609600,Olinda,41300,349976,8474,alto
 2607901,Jaboatao dos Guararapes,258724,644037,2489,medio
